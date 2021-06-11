@@ -1,0 +1,44 @@
+1.a
+2.a
+3.b
+4.d
+5.c
+6.a
+7.b
+8.a
+9.c
+
+10. Normal distribution is a probability distribution that is symmetric about the mean, 
+    showing that data near the mean are more frequent in occurrence than data far from the mean. 
+    In graph form, normal distribution will appear as a bell curve.
+
+11. Missind data can be handled by:
+  - by replacing the nan with the mean of the column data if it is a continuous data. 
+  - by replacing the nan with the mode of the column data if it has categorical data.
+
+   Imputation techniques: 
+   - Average imputation
+   - Common-point imputation
+  
+12. A/B Testing : A/B testing is basically statistical hypothesis testing also known as statistical inference. 
+    It is an analytical method for making decisions that estimates parameters/result based on sample statistics.
+  
+   There are 2 types of hypnothesis:
+   - Null hypothesis - choose the default outcome or sitaution as it is in present. i.e. the status quo.
+   - Alternative hypothesis - challenges the status quo amd make assumptions.
+
+   There are 2 type of erros in A/B testing:
+   - Type 1: Occurs when we incorrectly reject the null hypothesis and conclude that there is actually a difference 
+             between the original result and the variation when there really isn’t.
+   - Type 2: Occurs when we conclude test with the assumption that none of the variations beat the original result while in reality one of them did beat the original result.
+
+13. Mean imputation of missing data is not an acceptable practice in every scenario. missing data values are based on the type of 
+    the data present in the specific feature/column.
+
+14. There are two branches of Statistics:
+    - Descriptive Statistics: It is a branch of statistics that focuses on collecting, summarizing, and presenting a set of data.
+    - Inferential Statistics: IT involves drawing the right conclusions from the statistical analysis that has been performed using descriptive statistics.
+
+
+
+
